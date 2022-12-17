@@ -1,0 +1,58 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Penny Juice - Healthy Lifestyle Website</title>
+    <meta name="Keywords" content="Las Vegas, Healthy Lifestyle, Preschool, Juices">
+    <meta name="author" content="Toni Flowers">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../Style/main.css">
+</head>
+    
+<body>
+    <div id="container">
+        
+       <div class="header">
+           <center><h1>Penny Juice</h1></center></div>
+           
+        <div class="content"></div> 
+           
+             <div class="topnav">
+                 <ul>
+                 <li><a href="../HTML/index.html">HOME</a></li>
+                 <li><a href="../HTML/about.html">ABOUT</a></li>
+                 <li><a href="../HTML/flavors.html">FLAVORS</a>
+                     <ul>
+                         <li><a href="../HTML/grape.html">Grape</a></li>
+                         <li><a href="../HTML/berry.html">Berry</a></li>
+                         <li><a href="../HTML/orange.html">Orange</a></li>
+                     </ul>
+                     </li>
+                 <li><a href="../HTML/ingredients.html">INGREDIENTS</a></li>
+                 <li><a href="../HTML/blog.html">BLOG</a></li>
+                 <li><a href="../HTML/customer.html">CUSTOMER</a></li>
+                 </ul>
+        </div>
+    
+        <div class="flex-container1">
+            div<img src="../Images/Columb1.jpg" alt="Penny Juice Healthy Natural Flavors & Ingrdients" width="200" height="228"></div>
+             <div><h2>Beatiunt odi venesequis ident quassim aximaximped ut ut esti voluptibus dit repudan tibusti aepernate des que si corem natures trumquost, solupta idelici minvele sedicianti sunt parum suscill ecture dolupiendis ut quae earibusae enimi, nonsequatis si sequi dolut optatibusdae moluptior a consed moluptum acea nonet lant enimilles es dolorro vidunt omni core preicias comnis ullo et que perrum as voluptat vendunto experibere sin rehent, offici aut vella sim delique con ent enis et que od quis explabo rerovid igenisquae ped eserspis et aut il in net, omnis inctis derior milla delit volo temo tenim exerchi lignam fugiate ceroriorento dolupit volectem ra volenient quaerae exceped quodia cuscia et volenia ndaecerchit int quid eicatis quatium remporerum vel erum eos experro il et aut est ut expelis tibus, sent. </h2></div>
+        
+        <div class="flex-container2">
+            <div><img src="../IMAGES/Columb1.jpg" alt="Penny Juice Healthy Natural Flavors & Ingredients" width="250" height="200"></div>
+            <div><img src="../IMAGES/Column2.jpg" alt="Penny Juice Healthy Natural Flavors & Ingredients" width="250" height="200"></div>
+            <div><img src="../IMAGES/Column3.jpg" alt="Penny Juice Healthy Natural Flavors & Ingredients" width="250" height="200"></div>
+        </div>
+        <br><br><br><br>
+        <div class="footer">
+                Copyright &copy; Penny Juice 2020
+        
+        </div>
+
+   
+    
+    
+    </div>
+        </body>
+
+</html>
